@@ -89,7 +89,5 @@ public class MainActivity extends AppCompatActivity {
                 animatorSetsuofang.start();
             }
         });
-
-
     }
 }
